@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">HW1</string>
+    <string name="action_settings">Settings</string>
+    <string name="change_contact">Change contact</string>
+    <string name="change_sound">Change sound</string>
+    <string name="button1">Cancel</string>
+    <string name="button2">Ok</string>
+    <string name="cancel">cancel</string>
+    <string name="name">name</string>
+    <string-array name="contacts">
+        <item>Adam</item>
+        <item>Michał</item>
+        <item>Zenon</item>
+        <item>Justyna</item>
+        <item>Andrzej</item>
+    </string-array>
+    <string-array name="sounds">
+        <item>SOUND 1</item>
+        <item>SOUND 2</item>
+        <item>SOUND 3</item>
+        <item>SOUND 4</item>
+    </string-array>
+</resources>
